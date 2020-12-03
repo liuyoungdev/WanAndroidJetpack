@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WanAndroidJetpack</string>
+    <string name="home_page">首页</string>
+    <string name="home_system">体系</string>
+    <string name="home_plaza">广场</string>
+    <string name="home_mine">我的</string>
+    <string name="again_exit">再按一次退出</string>
+</resources>
